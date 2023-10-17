@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Hello, I'm [Your Name]!
 
-<!--
-**srihari-sirisipalli/srihari-sirisipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Engineer | Machine Learning Enthusiast | Open Source Advocate
 
-Here are some ideas to get you started:
+🌍 Hyderabad, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently working on enhancing data pipelines with PySpark and exploring the world of machine learning.
+
+🔧 Proficient in Python, Java, and Go, with a passion for solving complex problems and optimizing processes.
+
+📚 Continuous learner with certifications in Machine Learning from Stanford and IBM, and a Deep Learning Specialization.
+
+🛠️ Contributing to the open-source community and sharing knowledge through my repositories.
+
+📫 Let's connect: [Email](mailto:sriharisirisipalli0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sri-hari-sirisipalli) | [Portfolio](https://github.com/srihari-sirisipalli)
+
+🌱 Always exploring new technologies and seeking opportunities to collaborate on exciting projects.
