@@ -1,17 +1,15 @@
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Sri Hari!
 
-🚀 Data Engineer | Machine Learning Enthusiast | Open Source Advocate
+🚀 Tech Enthusiast | Data Engineer | Machine Learning Explorer
 
-🌍 Hyderabad, India
+🌍 Based in Hyderabad, India, and fueled by a passion for all things tech.
 
-💼 Currently working on enhancing data pipelines with PySpark and exploring the world of machine learning.
+💼 Actively seeking job opportunities, collaborations, and exciting projects in the world of technology.
 
-🔧 Proficient in Python, Java, and Go, with a passion for solving complex problems and optimizing processes.
+🔧 Proficient in Python, Java, Go, and always eager to tackle new challenges.
 
-📚 Continuous learner with certifications in Machine Learning from Stanford and IBM, and a Deep Learning Specialization.
+📚 A lifelong learner who thrives on exploring a diverse range of technologies and solving complex problems.
 
-🛠️ Contributing to the open-source community and sharing knowledge through my repositories.
+📫 Let's connect: [Email](mailto:sriharisirisipalli0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sri-hari-sirisipalli)
 
-📫 Let's connect: [Email](mailto:sriharisirisipalli0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sri-hari-sirisipalli) | [Portfolio](https://github.com/srihari-sirisipalli)
-
-🌱 Always exploring new technologies and seeking opportunities to collaborate on exciting projects.
+🌱 Striving to make a positive impact through code and open-source contributions in various tech domains.
