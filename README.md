@@ -2,7 +2,7 @@
 
 🚀 Tech Enthusiast | Data Engineer | Machine Learning Explorer
 
-🌍 Based in Hyderabad, India, and fueled by a passion for all things tech.
+🌍 Based in Visakhapatnam, India, and fueled by a passion for all things tech.
 
 💼 Actively seeking job opportunities, collaborations, and exciting projects in the world of technology.
 
