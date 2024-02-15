@@ -10,6 +10,6 @@
 
 📚 A lifelong learner who thrives on exploring a diverse range of technologies and solving complex problems.
 
-📫 Let's connect: [Email](mailto:sriharisirisipalli0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sri-hari-sirisipalli)
+📫 Let's connect: [Email](mailto:sriharisirisipalli0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sri-hari-sirisipalli-8297a01b1/)
 
 🌱 Striving to make a positive impact through code and open-source contributions in various tech domains.
