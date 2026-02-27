@@ -1,15 +1,17 @@
-👋 Hello, I'm Sri Hari!
+# Sri Hari Sirisipalli
 
-🚀 Tech Enthusiast | Data Engineer | Machine Learning Explorer
+AI Systems Engineer focused on scalable ML systems and LLM infrastructure.
 
-🌍 Based in Visakhapatnam, India, and fueled by a passion for all things tech.
+I build structured experimentation pipelines, surrogate models, and retrieval-based LLM architectures with production-aware design.
 
-💼 Actively seeking job opportunities, collaborations, and exciting projects in the world of technology.
+Experience spans large-scale model evaluation, feature reduction at scale, and reproducible retrain-to-predict workflows.
 
-🔧 Proficient in Python, Java, Go, and always eager to tackle new challenges.
+Built offline RAG systems integrating embeddings, vector search, and real-time speech interfaces.
 
-📚 A lifelong learner who thrives on exploring a diverse range of technologies and solving complex problems.
+Designed digital twin ML infrastructure for simulation-heavy environments.
 
-📫 Let's connect: [Email](mailto:sriharisirisipalli0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sri-hari-sirisipalli-8297a01b1/)
+Architected AWS-based ML platforms with infrastructure automation and cost optimization.
 
-🌱 Striving to make a positive impact through code and open-source contributions in various tech domains.
+Python · ML Systems · LLM Infrastructure · Digital Twin Modeling
+
+Contact: [sriharisirisipalli0@gmail.com](mailto:sriharisirisipalli0@gmail.com)
