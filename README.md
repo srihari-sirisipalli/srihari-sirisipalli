@@ -1,27 +1,42 @@
 ## Sri Hari Sirisipalli
 
-### AI & Mechanical Systems Engineer | GenAI · Computer Vision · CFD/FEA · Digital Twins · Cloud-Native Systems
+### Fractional CTO · AI, Digital Twins, Apps & Backend for Engineering R&D
 
-🚀 I build AI systems that connect **machine learning, mechanical engineering, simulation, computer vision, backend infrastructure, and cloud deployment**.
+🚀 I ship production systems for engineering and industrial R&D, where the software sits on top of real physics, real sensors, and real budgets.
 
-My work sits at the intersection of **AI + engineering systems** — building practical solutions that move from experimentation to usable software, automation pipelines, and production-ready workflows.
+Building end-to-end across AI, digital twins, mobile & web apps, backend, cloud, computer vision, and core engineering. Clients hire me when a project needs hard engineering depth and production software delivery in one place.
 
-🤖 **GenAI & LLM Systems**
-Built LLM/RAG pipelines, embedding workflows, vector search systems, offline AI assistants, and retrieval-based architectures for technical and domain-specific knowledge systems.
+🤖 **AI & GenAI**
+RAG pipelines, embeddings, semantic retrieval, offline LLMs, real-time offline conversational AI, patent similarity, document intelligence, compliance and regulatory expert systems.
 
-👁️ **Computer Vision & Retrieval**
-Worked on visual similarity search, biometric-style retrieval pipelines, image preprocessing, feature extraction, FAISS indexing, multi-view embeddings, and scalable image matching systems.
+⚙️ **Digital Twins & Simulation**
+Mooring digital twin, Battery digital twin, Offshore riser fatigue and motion digital twin, Ship emergency-response digital twin, MOSES sea-transport DOE automation, NavalArch Studio, PyNAOS pure-Python FEA engine.
 
-🌊 **Mechanical, Marine & Simulation Engineering**
-Experience across CFD methods, FEA workflows, CAD/CAE automation, ANSYS APDL, MOSES, FreeCAD, offshore simulation, structural/modal analysis, fatigue prediction, and marine digital twin modeling.
+📱 **Mobile & Web Apps**
+Flutter apps end-to-end (Fractional CTO at Openct), full-stack web platforms in production (zapstays.in).
 
-⚙️ **ML Systems & Digital Twins**
-Developed surrogate models, structured experimentation pipelines, time-series ML workflows, anomaly detection systems, and retrain-to-predict pipelines for simulation-heavy environments.
+👁️ **Computer Vision**
+Multi-view biometric retrieval at scale, distributed image-processing pipelines.
 
-☁️ **Backend, Cloud & DevOps**
-Built cloud-native AI platforms using Python, FastAPI, Django, AWS, Terraform, Docker, WebSockets, async processing, data pipelines, and infrastructure automation.
+🔧 **Backend & Cloud**
+FastAPI, Django, WebSockets, Redis, PostgreSQL, AWS (Lambda, EC2, S3), DigitalOcean, Terraform, Docker.
 
-🛠️ **Core Areas**
-AI Systems · GenAI · Computer Vision · Digital Twins · CFD/FEA · CAD Automation · ML Infrastructure · Vector Search · Backend Engineering · Cloud-Native Systems
+📐 **Core Engineering**
+CFD (ANSYS Fluent), FEA (ANSYS APDL and custom Python engine), hydrodynamics (Bentley MOSES), naval architecture (IMO IS Code, SOLAS, IACS, DNV-GL), CAD/CAE automation.
 
-📩 **Contact:** [sriharisirisipalli0@gmail.com](mailto:sriharisirisipalli0@gmail.com)
+🛡️ **AUV & Underwater Systems**
+Led engineering team on autonomous underwater vehicle design and development, underwater vehicle propulsion structural reliability, marine and offshore engineering deliverables.
+
+📊 **ML for Engineering R&D**
+Physics-informed surrogates, multi-input DC-DC converter inverse design, vibration diagnostics rule engines, data pipelines for simulation datasets.
+
+---
+
+### How to engage
+
+Discovery Sprint · Build Engagement · Managed Service · Fractional CTO
+
+🌐 **Portfolio:** [srihari-sirisipalli.github.io](https://srihari-sirisipalli.github.io)
+📩 **Email:** [sriharisirisipalli0@gmail.com](mailto:sriharisirisipalli0@gmail.com)
+📞 **Book a call:** [calendly.com/sriharisirisipalli0](https://calendly.com/sriharisirisipalli0)
+🔗 **LinkedIn:** [linkedin.com/in/sri-hari-sirisipalli](https://www.linkedin.com/in/sri-hari-sirisipalli/)
