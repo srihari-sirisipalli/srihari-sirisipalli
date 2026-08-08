@@ -1,37 +1,42 @@
 ## Sri Hari Sirisipalli
 
-### Fractional CTO · End-to-End Software & Product Development · AI, Digital Twins, Apps, Backend, Automations for Engineering R&D
+### Lead Engineer & AI Systems Engineer · End-to-End
 
-🚀 I ship end-to-end software and product for engineering and industrial R&D, where the software sits on top of real physics, real sensors, and real budgets.
+I lead, engineer, and build. Leading engineering on projects like Autonomous Underwater Vehicle (AUV) design, ship design, and offshore structures. Building AI systems, apps, platforms, and industry software end-to-end. Fractional CTO at [Openct](https://openct.co).
 
-Building across software & product development, AI, digital twins, mobile & web apps, backend, cloud, computer vision, automations, and core engineering. Clients hire me when a project needs hard engineering depth and production software delivery in one place.
+Hired when a client needs one engineer who can move the work forward, from concept and analysis through delivery.
 
-🧭 **Software & Product Development**
-End-to-end product delivery from discovery to production. Architecture, hiring, technical roadmap, and delivery cadence as Fractional CTO.
+---
 
-🤖 **AI & GenAI**
-RAG pipelines, embeddings, semantic retrieval, offline LLMs, real-time offline conversational AI, patent similarity, document intelligence, compliance and regulatory expert systems.
-
-⚙️ **Digital Twins & Simulation**
-Mooring digital twin, Battery digital twin, Offshore riser fatigue and motion digital twin, Ship emergency-response digital twin, MOSES sea-transport DOE automation, NavalArch Studio, PyNAOS pure-Python FEA engine.
-
-📱 **Mobile & Web Apps**
-Flutter apps end-to-end (Fractional CTO at Openct), full-stack web platforms in production (zapstays.in).
-
-👁️ **Computer Vision**
-Multi-view biometric retrieval at scale, distributed image-processing pipelines.
-
-🔁 **Automations**
-CAD/CAE automation (ANSYS APDL, MOSES, FreeCAD, Rhino), simulation orchestration (parametric DOE, resumable batch execution), data pipelines, CI/CD, and workflow automation for engineering teams.
-
-🔧 **Backend & Cloud**
-FastAPI, Django, WebSockets, Redis, PostgreSQL, AWS (Lambda, EC2, S3), DigitalOcean, Terraform, Docker.
-
-📐 **Core Engineering**
-CFD (ANSYS Fluent), FEA (ANSYS APDL and custom Python engine), hydrodynamics (Bentley MOSES), naval architecture (IMO IS Code, SOLAS, IACS, DNV-GL), CAD/CAE automation.
+⚓ **Marine, Offshore & Naval Engineering**
+Leading engineering teams on ship, offshore, and naval design projects. Hydrostatics, stability, seakeeping, damage. Offshore platforms, jack-ups, risers, mooring, gangways. Planning craft, service boats, small-craft hull and structural design. Class and regulatory work against IMO IS Code, SOLAS, IACS, DNV-GL.
 
 🛡️ **AUV & Underwater Systems**
-Led engineering team on autonomous underwater vehicle design and development, underwater vehicle propulsion structural reliability, marine and offshore engineering deliverables.
+Currently leading an engineering team on Autonomous Underwater Vehicle design and development. Underwater vehicle propulsion reliability research using AI, DOE, and ML surrogates over expensive physics runs.
+
+📐 **Simulations**
+CFD (ANSYS Fluent), FEA (ANSYS APDL and a custom Python engine), hydrodynamics (Bentley MOSES, panel methods, wave modelling), physics-informed and ML surrogates.
+
+🌊 **Digital Twins**
+Offshore riser fatigue and motion digital twin, mooring digital twin, battery digital twin, ship emergency-response digital twin.
+
+🤖 **AI, ML & GenAI**
+RAG pipelines, embeddings, semantic retrieval, offline LLMs and VLMs, real-time offline 3D AI avatar, DocForge offline document intelligence, LLM patent similarity, compliance and regulatory expert systems.
+
+👁️ **Computer Vision**
+Multi-view biometric retrieval at scale, live detection and tracking (YOLO, BoT-SORT), computer vision for mining operations (11 detection features, live NOC dashboard).
+
+🔁 **Automation**
+CAD and CAE automation across ANSYS APDL, FreeCAD, and MOSES. Data pipelines, ETL, workflow automation, CI/CD, deployment automation.
+
+🧰 **Industry Software**
+PyNAOS pure-Python FEA engine for offshore structures. NavalArch Studio for ship design and stability. Ship Recycling Expert System. Vibration Diagnostics Rule Engine.
+
+📱 **Apps, Websites & Platforms**
+Flutter apps end-to-end (Fractional CTO at Openct). Full-stack web platforms in production (zapstays.in). VHop nightlife platform (in build).
+
+☁️ **Backend & Cloud**
+FastAPI, Django, WebSockets. AWS (Lambda, EC2, S3), DigitalOcean. Redis, PostgreSQL. Terraform, Docker, GitHub Actions.
 
 ---
 
