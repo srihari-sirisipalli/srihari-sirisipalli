@@ -128,30 +128,17 @@ Currently leading an engineering team on Autonomous Underwater Vehicle design an
 
 <div align="center">
 
-<a href="https://github.com/srihari-sirisipalli">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srihari-sirisipalli&show_icons=true&hide_border=true&bg_color=00000000&title_color=B04A2A&icon_color=B04A2A&text_color=808080&count_private=true&include_all_commits=true" alt="Sri Hari's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=srihari-sirisipalli&hide_border=true&background=00000000&stroke=B04A2A&ring=B04A2A&fire=B04A2A&currStreakLabel=B04A2A&sideNums=808080&currStreakNum=808080&sideLabels=808080&dates=808080&excludeDaysLabel=808080" alt="GitHub streak" />
-</a>
+<img height="180" src="https://streak-stats.demolab.com?user=srihari-sirisipalli&hide_border=true&background=00000000&stroke=B04A2A&ring=B04A2A&fire=B04A2A&currStreakLabel=B04A2A&sideNums=808080&currStreakNum=808080&sideLabels=808080&dates=808080&excludeDaysLabel=808080" alt="GitHub streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srihari-sirisipalli&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=B04A2A&text_color=808080&hide=html,css" alt="Top languages" />
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srihari-sirisipalli&hide_border=true&bg_color=00000000&color=B04A2A&line=B04A2A&point=0B1930&area=true&area_color=E2D9C4&custom_title=Contribution%20activity%20%C2%B7%20last%2031%20days" alt="Contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srihari-sirisipalli/srihari-sirisipalli/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srihari-sirisipalli/srihari-sirisipalli/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/srihari-sirisipalli/srihari-sirisipalli/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
-
----
-
-### 🐍 Watch the snake eat my contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srihari-sirisipalli/srihari-sirisipalli/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srihari-sirisipalli/srihari-sirisipalli/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/srihari-sirisipalli/srihari-sirisipalli/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-> Needs the workflow at `.github/workflows/snake.yml` (below) enabled once for these SVGs to generate.
 
 ---
 
