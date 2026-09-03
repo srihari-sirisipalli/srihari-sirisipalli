@@ -34,6 +34,16 @@ The bet the practice is built on: engineering depth and product delivery are mor
 
 ---
 
+### 📄 Latest publication
+
+**[Adaptive dual mode operational swarm control for resilient asset defense under communication jamming](https://link.springer.com/article/10.1007/s44465-026-00041-0)**
+Hassan, M. H. S., Varma, D. S. N. V. P. R., Bobbadi, J. K., Dudaboyina, N. S. M., Sirisipalli, N., **Sirisipalli, S. H.**, & Gunnu, G. R. (2026). *Discover Vehicles*, 2, 34. Springer Nature. Peer-reviewed, open access.
+Published 31 August 2026 · DOI: [10.1007/s44465-026-00041-0](https://doi.org/10.1007/s44465-026-00041-0)
+
+Co-authored ADMOS, a resilient multi-UAV swarm architecture that keeps protecting a critical asset under communication jamming. Combines Covariance Intersection state fusion, a hysteresis + dwell-time hybrid supervisor, and a 10 Hz higher-order control-barrier-function safety filter. Simulated asset-protection rate holds at 84% under full jamming vs 42% for the consensus baseline.
+
+---
+
 ### 🧩 What I do
 
 <table>
